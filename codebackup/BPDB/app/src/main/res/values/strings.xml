@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">BPDB</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="yes_string">Yes</string>
+    <string name="no_string">No</string>
+
+    <string name="exit_app">Exit App </string>
+    <string name="exit_app_confirm">Do you want to exit app</string>
+
+    <string name="welcome">Welcome to BPDB mobile application</string>
+    <string name="location_code">Enter Location Code</string>
+    <string name="consumer_number">Enter Consumer Number</string>
+    <string name="bill_month">Enter Bill Month</string>
+    <string name="get_bill">Submit</string>
+
+    <string name="enter_from_month">Enter From Month</string>
+    <string name="enter_to_month">Enter To Month</string>
+
+
+    <string name="reading">Reading</string>
+    <string name="consumption">Consumption</string>
+    <string name="current_bill">Current Bill</string>
+    <string name="arrear_bill">Arrear Bill</string>
+    <string name="total_bill">Total Bill</string>
+    <string name="bill_number">Bill Number</string>
+    <string name="tariff">Tariff</string>
+    <string name="meter_condition">Meter Condition</string>
+    <string name="cd">CD</string>
+    <string name="customer_check_digit">Consumer check digit</string>
+    <string name="customer_name">Customer Name </string>
+    <string name="customer_number">Customer Num </string>
+    <string name="location_or_division">Location/ Division</string>
+
+    <string name="bill_cycle_code">BIll Cycle Code</string>
+    <string name="s_n_d_or_esu">SD&amp;ESU</string>
+    <string name="book">Book</string>
+    <string name="meter_number">Meter Num</string>
+    <string name="customer_details">Customer Details :</string>
+    <string name="principle_apt">Prn Amt.</string>
+    <string name="vat_apt">VAT Amt.</string>
+    <string name="bill_month_tot">Bill Month Tot</string>
+    <string name="arrear_prn">Arr Prn</string>
+    <string name="arrear_vat">Arr Vat</string>
+    <string name="arrear_lps">Arr L.P.S.</string>
+    <string name="adj_prn">Adj Prn</string>
+    <string name="adj_vat">Adj Vat</string>
+    <string name="adj_lps">Adj L.P.S.</string>
+
+
+
+
+    <string name="pelase_fill">Please Fill</string>
+    <string name="pelase_wait">Please Wait</string>
+    <string name="try_again">Try Again</string>
+    <string name="try_again_no_network">No internet found. Check the internet connection and try again.</string>
+    <string name="something_went_wrong">Something went wrong</string>
+
+    <string name="ledger_details">Ledger Details :</string>
+    <string name="bill_details">Bill Details :</string>
+    <string name="personal_info">Personal Information :</string>
+    <string name="custimer_name_fill">Customer Name :</string>
+    <string name="custimer_number_fill">Customer Number :</string>
+    <string name="Location_or_division_fill">Location/Division :</string>
+    <string name="tarill_fill">Tariff :</string>
+    <string name="last_pay_date">Last Pay dt :</string>
+
+
+    <string name="reading_fill">Curr Read :</string>
+    <string name="consumption_fill">Consumption :</string>
+    <string name="current_bill_fill">Current Bill :</string>
+    <string name="arrear_bill_fill">Arrear Bill :</string>
+    <string name="total_bill_fill">Total Bill :</string>
+    <string name="paid_fill">Paid :</string>
+    <string name="bill_number_fill">Bill No. :</string>
+    <string name="meter_condition_fill">M. Cond. :</string>
+    <string name="cd_fill">CD :</string>
+    <string name="consumer_check_digit_fill">Check digit :</string>
+    <string name="due_date_fill">Due date :</string>
+    <string name="pay_date_fill">Pay date :</string>
+    <string name="last_pay_date2">Last Pay Date</string>
+
+
+
+
+
+
+</resources>
