@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BPDB.iml" filepath="$PROJECT_DIR$/BPDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BPDB-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BPDB-app.iml" group="BPDB/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codebackup-BPDB.iml" filepath="$PROJECT_DIR$/.idea/modules/codebackup-BPDB.iml" group="BPDB" />
     </modules>
   </component>
 </project>
